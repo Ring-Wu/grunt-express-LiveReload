@@ -1,0 +1,17 @@
+{
+  "name": "grunt-express-reload",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.5.1",
+    "ejs": "*",
+    "grunt": "~0.4.3",
+    "matchdep": "~0.3.0",
+    "grunt-express": "~1.2.1",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-open": "~0.2.3"
+  }
+}
